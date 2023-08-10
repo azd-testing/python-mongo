@@ -1,0 +1,6 @@
+beanie == 1.11.*
+certifi == 2023.*
+fastapi == 0.95.*
+pyOpenSSL == 23.2.*
+python-dotenv == 0.20.*
+uvicorn == 0.19.*
